@@ -4,7 +4,7 @@ Make your first Pull Request and earn a free tee from GitHub!
 
 ![Hacktoberfest 2020](osc_hacktoberfest2020.png)
 
-
+<title>Pull Request</title>
 <p align="center">
    <img alt="GitHub issues" src="https://img.shields.io/github/issues/OpenSouceCode/Hacktoberfest2020"></a>
    <img alt="GitHub forks" src="https://img.shields.io/github/issues/OpenSouceCode/Hacktoberfest2020"></a>
